@@ -1,4 +1,4 @@
-I’m very happy to have completed this project. It helped me a lot in learning programming.💻
+### I’m very happy to have completed this project. It helped me a lot in learning programming.💻
 
 The project is a console-based banking system 🏦designed to simulate basic banking operations.
 Its main idea is to manage users and accounts while allowing common transactions such as login, deposits, withdrawals, and transfers through a simple menu-driven interface. 
