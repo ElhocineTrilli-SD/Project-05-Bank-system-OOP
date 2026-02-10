@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\myfirst\\ConsoleBankSystemOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\ConsoleBankSystemOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTotalBalanceScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsTotalBalanceScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\TransferLog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\TransferLog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\IOMANIP||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\XLOCMON||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsfindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsfindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2121C6F6-468C-4740-B834-4974E3DA0CA2}|ConsoleBankSystemOOP\\ConsoleBankSystemOOP.vcxproj|solutionrelative:ConsoleBankSystemOOP\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleBankSystemOOP.cpp",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP.cpp",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\ConsoleBankSystemOOP.cpp",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP.cpp",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\ConsoleBankSystemOOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T14:09:34.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsManageUsers.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsManageUsers.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsManageUsers.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsManageUsers.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsManageUsers.h",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvysAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T09:56:57.647Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T21:12:11.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsLoginScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsLoginScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsLoginScreen.h",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T19:48:35.608Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsLoginRegisterScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsLoginRegisterScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsLoginRegisterScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsLoginRegisterScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsLoginRegisterScreen.h",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAvwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-06T08:51:45.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsClientListScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsClientListScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsClientListScreen.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T13:02:21.91Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsWithdrawScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsWithdrawScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsWithdrawScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T18:44:53.336Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsTransferScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransferScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsTransferScreen.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-07T14:43:49.233Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsTransactionsScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransactionsScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsTransactionsScreen.h",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T18:26:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsBankClient.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsBankClient.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsBankClient.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsBankClient.h",
+              "ViewState": "AgIAANwBAAAAAAAAAADwv/EBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T14:12:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUser.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsUser.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUser.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsUser.h",
+              "ViewState": "AgIAAKQAAAAAAAAAAADgv68AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-06T08:31:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsTransferLogScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransferLogScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsTransferLogScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTransferLogScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsTransferLogScreen.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T13:50:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsUpdateUserScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T10:59:19.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUtil.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsUtil.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUtil.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsUtil.h",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAADUBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T21:33:08.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsListUsersScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsListUsersScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsListUsersScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsListUsersScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsListUsersScreen.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T10:27:16.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsTotalBalanceScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTotalBalanceScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsTotalBalanceScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsTotalBalanceScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsTotalBalanceScreen.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T18:58:15.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsMainScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsMainScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsMainScreen.h",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwFAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T12:43:13.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsDepositScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDepositScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsDepositScreen.h",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T18:38:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransferLog.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\TransferLog.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\TransferLog.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\TransferLog.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\TransferLog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T13:19:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "iomanip",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv0IAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-10T13:34:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "xlocmon",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xlocmon",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xlocmon",
+              "ViewState": "AgIAAHcAAAAAAAAAAADgv4IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-10T13:34:38.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsAddNewUserScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T10:40:43.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsUpdateClientScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T13:50:25.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Global.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\Global.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\Global.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\Global.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T19:50:11.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDate.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsDate.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDate.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsDate.h",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswEsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T16:18:52.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsfindUserScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsfindUserScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsfindUserScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsfindUserScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsfindUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T11:05:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsDeleteUserScreen.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T10:53:13.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsPerson.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsPerson.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsPerson.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsPerson.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T14:10:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsInputValidate.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsInputValidate.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsInputValidate.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T16:17:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsString.h",
+              "DocumentMoniker": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsString.h",
+              "RelativeDocumentMoniker": "ConsoleBankSystemOOP\\clsString.h",
+              "ToolTip": "H:\\myfirst\\ConsoleBankSystemOOP\\ConsoleBankSystemOOP\\clsString.h",
+              "RelativeToolTip": "ConsoleBankSystemOOP\\clsString.h",
+              "ViewState": "AgIAALQAAAAAAAAAAAAkwDsBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T14:11:45.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
