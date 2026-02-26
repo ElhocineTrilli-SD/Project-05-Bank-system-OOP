@@ -3,21 +3,10 @@
 #include <string>
 #include "clsString.h"
 #include "clsDate.h"
-
 class clsInputValidate
 {
-
 public:
-
-	static bool IsNumberBetween(int Number, short From, short To)
-	{
-		if (Number >= From && Number <= To)
-			return true;
-		else
-			return false;
-	}
-
-	static bool IsNumberBetween(int Number, int From, int To)
+	template <typename T> static bool IsNumberBetween(T Number, T From, T To)
 	{
 		if (Number >= From && Number <= To)
 			return true;
@@ -26,12 +15,9 @@ public:
 
 	}
 
-	static bool IsNumberBetween(double Number, double From, double To)
+	template <typename T> T MyMax(T Number1, T Number2)
 	{
-		if (Number >= From && Number <= To)
-			return true;
-		else
-			return false;
+		return (Number1 > Number2) ? Number1 : Number2;
 	}
 
 	static bool IsDateBetween(clsDate Date, clsDate From, clsDate To)
@@ -57,9 +43,9 @@ public:
 		return false;
 	}
 
-	static int ReadIntNumber(string ErrorMessage = "Invalid Number, Enter again\n")
+	template <typename T> static T ReadNumber(string ErrorMessage = "Invalid Number, Enter again\n")
 	{
-		int Number;
+		T Number;
 		while (!(cin >> Number)) {
 			cin.clear();
 			cin.ignore(numeric_limits<streamsize>::max(), '\n');
@@ -68,84 +54,19 @@ public:
 		return Number;
 	}
 
-	static short ReadShortNumber(string ErrorMessage = "Invalid Number, Enter again\n")
+	template <typename T > 
+	static T ReadNumberBetween(T From, T To, string ErrorMessage = "Number is not within range, Enter again:\n")
 	{
-		short Number;
-		while (!(cin >> Number)) {
-			cin.clear();
-			cin.ignore(numeric_limits<streamsize>::max(), '\n');
-			cout << ErrorMessage;
-		}
-		return Number;
-	}
-
-	static int ReadIntNumberBetween(int From, int To, string ErrorMessage = "Number is not within range, Enter again:\n")
-	{
-		int Number = ReadIntNumber();
+		T Number = ReadNumber<T>();
 
 		while (!IsNumberBetween(Number, From, To))
 		{
 			cout << ErrorMessage;
-			Number = ReadIntNumber();
+			Number = ReadNumber<T>();
 		}
 		return Number;
+
 	}
-	static short ReadShortNumberBetween(short From, short To, string ErrorMessage = "Number is not within range, Enter again:\n")
-	{
-		int Number = ReadShortNumber();
-
-		while (!IsNumberBetween(Number, From, To))
-		{
-			cout << ErrorMessage;
-			Number = ReadShortNumber();
-		}
-		return Number;
-	}
-
-	static float ReadFloatNumber(string ErrorMessage = "Invalid Number, Enter again\n")
-	{
-		float Number;
-		while (!(cin >> Number)) {
-			cin.clear();
-			cin.ignore(numeric_limits<streamsize>::max(), '\n');
-			cout << ErrorMessage;
-		}
-		return Number;
-	}
-
-	static double ReadFloatNumberBetween(double From, double To, string ErrorMessage = "Number is not within range, Enter again:\n")
-	{
-		double Number = ReadFloatNumber();
-
-		while (!IsNumberBetween(Number, From, To)) {
-			cout << ErrorMessage;
-			Number = ReadDblNumber();
-		}
-		return Number;
-	}
-
-	static double ReadDblNumber(string ErrorMessage = "Invalid Number, Enter again\n")
-	{
-		double Number;
-		while (!(cin >> Number)) {
-			cin.clear();
-			cin.ignore(numeric_limits<streamsize>::max(), '\n');
-			cout << ErrorMessage;
-		}
-		return Number;
-	}
-
-	static double ReadDblNumberBetween(double From, double To, string ErrorMessage = "Number is not within range, Enter again:\n")
-	{
-		double Number = ReadDblNumber();
-
-		while (!IsNumberBetween(Number, From, To)) {
-			cout << ErrorMessage;
-			Number = ReadDblNumber();
-		}
-		return Number;
-	}
-
 	static bool IsValideDate(clsDate Date)
 	{
 		return	clsDate::IsValidDate(Date);
@@ -157,6 +78,7 @@ public:
 		// Usage of std::ws will extract allthe whitespace character
 		getline(cin >> ws, S1);
 		return S1;
-	}
+	};
+
 };
 

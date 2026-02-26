@@ -54,7 +54,13 @@ H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsBankClient.h(447,36): wa
 H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsTotalBalanceScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'ConsoleBankSystemOOP.cpp')
   
+H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsListCurrenciesScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleBankSystemOOP.cpp')
+  
+H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleBankSystemOOP.cpp')
+  
 H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsBankClient.h(375,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
-H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsUser.h(348,1): warning C4715: 'clsUser::Save': not all control paths return a value
 H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsBankClient.h(451,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+H:\myfirst\ConsoleBankSystemOOP\ConsoleBankSystemOOP\clsUser.h(348,1): warning C4715: 'clsUser::Save': not all control paths return a value
   ConsoleBankSystemOOP.vcxproj -> H:\myfirst\ConsoleBankSystemOOP\x64\Debug\ConsoleBankSystemOOP.exe
