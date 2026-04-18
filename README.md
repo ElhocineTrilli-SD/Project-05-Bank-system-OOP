@@ -38,26 +38,6 @@ Requirements
 - C++ compiler (MSVC via Visual Studio or GCC/MinGW)
 - Tested with Visual Studio (any recent version) and MSVC toolchain
 
-Build and Run
--------------
-
-Using Visual Studio (recommended):
-1. Open the `.Bank Project OOP.cpp` solution in Visual Studio.
-2. Build the solution (Ctrl+Shift+B).
-3. Run (F5) or start without debugging (Ctrl+F5).
-4.Enter credentials at the login screen and navigate the menus.
-5.User Name `Admin` and Password `1234` are Recorded as `Admin Data Login` for testing.
-6.Clients Data is Recorded in Text File `Clients.txt` in the project directory. 
-7.Users Login Information is Recorded in Text File `Users.txt` in the project directory.
-7. You can add clients by using the `Add Client` option in the main menu after logging in.
-
-Using g++ / MinGW (command line):
-1. From the project directory, compile all `.cpp` files. Example (adjust file list):
-
-`g++ -std=c++17 -O2 -Wall "Bank Project OOP.cpp" cls*.cpp -o BankApp.exe`
-
-2. Run the produced executable: `./BankApp.exe` (or `BankApp.exe` on Windows).
-
 Usage
 -----
 
